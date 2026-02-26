@@ -7,7 +7,7 @@ function UserCard(){
     };
     return(
     <div className="card">
-    <h2>{user.name}</h2>
+    <h2>{user.name}</h2> 
     <p>Role: {user.role}</p>
     <p>Location:{user.location}</p>
     </div>
