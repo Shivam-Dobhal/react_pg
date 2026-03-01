@@ -8,7 +8,6 @@ Salary:100000,
 type:"remote",
 experience:"5 year+",
 posted:"2 days"
-
 },{
             id:2,
             title:"Python Developer",
